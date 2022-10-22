@@ -3,7 +3,7 @@
 "description":"By Dexter, for own use", 
 "icons":
     [
-        {"name":"hhy.png", "url":"https://raw.githubusercontent.com/Bris4e/Fireball/main/icon/terminus.png"},
+        {"name":"hhy.png", "url":"https://raw.githubusercontent.com/Bris4e/Fireball/main/icon/terminus.svg"},
         {"name":"jms.png", "url":"https://raw.githubusercontent.com/Bris4e/Fireball/main/icon/jms.png"},
         {"name":"jms1.png", "url":"https://raw.githubusercontent.com/Bris4e/Fireball/main/icon/jms1.png"},      
         {"name":"jms2.png", "url":"https://raw.githubusercontent.com/Bris4e/Fireball/main/icon/jms2.png"},
